@@ -42,26 +42,38 @@ The dataset includes the following features to help with prediction:
 -Matplotlib 📈
 
 ## 🚀 How to Run the Project
+
 To run the project locally:
 
-Clone the repository to your local machine.
-Install the required libraries from the requirements.txt.
-Execute the script to get the results and predictions.
-📈 Results
+-Clone the repository to your local machine.
+
+-Install the required libraries from the requirements.txt.
+
+-Execute the script to get the results and predictions.
+
+## 📈 Results
+
 The model provides various accuracy metrics, such as:
 
-Confusion Matrix 🔢
-Accuracy Score ⭐
-Classification Report 📝
+-Confusion Matrix 🔢
+
+-Accuracy Score ⭐
+
+-Classification Report 📝
+
 These results demonstrate how well the program identifies real versus fake banknotes based on their features. 🤝
 
-🏆 Model Performance
+## 🏆 Model Performance
+
 The Gaussian Naive Bayes model achieves excellent performance, with a high accuracy rate, proving its capability in banknote authentication tasks. 📊
 
-🛠️ Setup Instructions
-Clone this repository to your local machine.
-Install all necessary dependencies.
-Run the script and observe the predictions and results! 🎬
+## 🛠️ Setup Instructions
+
+-Clone this repository to your local machine.
+
+-Install all necessary dependencies.
+
+-Run the script and observe the predictions and results! 🎬
 🌍 Contributing
 We welcome contributions! 🙌 Feel free to report issues or submit pull requests. Together, we can make the project even better. 💡
 
