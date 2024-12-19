@@ -13,10 +13,12 @@ This project aims to classify banknotes into two categories:
 
 By analyzing different features (like variance, skewness, curtosis, and entropy), the model learns to distinguish between genuine and forged banknotes. 🧐
 
-🧠 Methodology
+## 🧠 Methodology
+
 We utilize the Gaussian Naive Bayes algorithm 🔮, a probabilistic classifier that assumes features follow a Gaussian (normal) distribution. This method helps the model learn from the data and make predictions with high accuracy. 🤖
 
-🧰 Features Used
+## 🧰 Features Used
+
 The dataset includes the following features to help with prediction:
 
 Variance 📐
