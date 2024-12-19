@@ -74,10 +74,13 @@ The Gaussian Naive Bayes model achieves excellent performance, with a high accur
 -Install all necessary dependencies.
 
 -Run the script and observe the predictions and results! 🎬
-🌍 Contributing
+
+## 🌍 Contributing
+
 We welcome contributions! 🙌 Feel free to report issues or submit pull requests. Together, we can make the project even better. 💡
 
-📄 License
+## 📄 License
+
 This project is licensed under the MIT License. 📝
 
 
