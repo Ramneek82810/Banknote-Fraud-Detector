@@ -21,17 +21,27 @@ We utilize the Gaussian Naive Bayes algorithm 🔮, a probabilistic classifier t
 
 The dataset includes the following features to help with prediction:
 
-Variance 📐
-Skewness 🎯
-Curtosis 🏁
-Entropy 🔥
-⚙️ Tools and Technologies
-Python 🐍
-Scikit-learn 📚
-Pandas 🗃️
-NumPy ➗
-Matplotlib 📈
-🚀 How to Run the Project
+-Variance 📐
+
+-Skewness 🎯
+
+-Curtosis 🏁
+
+-Entropy 🔥
+
+## ⚙️ Tools and Technologies
+
+-Python 🐍
+
+-Scikit-learn 📚
+
+-Pandas 🗃️
+
+-NumPy ➗
+
+-Matplotlib 📈
+
+## 🚀 How to Run the Project
 To run the project locally:
 
 Clone the repository to your local machine.
