@@ -1,10 +1,11 @@
-# 🏦 Banknote Authentication using Gaussian Naive Bayes 📊💵
+# 🏦 Banknote Authentication using Gaussian Naive Bayes 
 
 ## 📜 Project Description
 
 Welcome to the Banknote Authentication project! 🎉 This project uses Gaussian Naive Bayes 🧑‍💻 to classify banknotes as real or fake based on their physical features. The goal is to build a model that can accurately predict whether a banknote is authentic or counterfeit. 💡
 
 ## 🔍 Problem Statement
+
 This project aims to classify banknotes into two categories:
 
 -Real Banknotes 🏅
