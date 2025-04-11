@@ -8,7 +8,7 @@ Welcome to the Banknote Authentication project! 🎉 This project uses Gaussian 
 
 This project aims to classify banknotes into two categories:
 
--Real Banknotes 🏅
+- Real Banknotes 🏅
 
 -Fake Banknotes 💸
 
