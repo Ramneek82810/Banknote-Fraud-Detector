@@ -10,7 +10,7 @@ This project aims to classify banknotes into two categories:
 
 - Real Banknotes 🏅
 
--Fake Banknotes 💸
+- Fake Banknotes 💸
 
 By analyzing different features (like variance, skewness, curtosis, and entropy), the model learns to distinguish between genuine and forged banknotes. 🧐
 
