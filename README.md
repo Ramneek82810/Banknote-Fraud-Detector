@@ -28,7 +28,7 @@ The dataset includes the following features to help with prediction:
 
 - Curtosis 🏁
 
--Entropy 🔥
+- Entropy 🔥
 
 ## ⚙️ Tools and Technologies
 
