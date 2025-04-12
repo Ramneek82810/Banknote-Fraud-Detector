@@ -24,7 +24,7 @@ The dataset includes the following features to help with prediction:
 
 - Variance 📐
 
--Skewness 🎯
+- Skewness 🎯
 
 -Curtosis 🏁
 
