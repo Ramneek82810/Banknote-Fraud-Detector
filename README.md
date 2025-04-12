@@ -26,7 +26,7 @@ The dataset includes the following features to help with prediction:
 
 - Skewness 🎯
 
--Curtosis 🏁
+- Curtosis 🏁
 
 -Entropy 🔥
 
