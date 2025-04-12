@@ -22,7 +22,7 @@ We utilize the Gaussian Naive Bayes algorithm 🔮, a probabilistic classifier t
 
 The dataset includes the following features to help with prediction:
 
--Variance 📐
+- Variance 📐
 
 -Skewness 🎯
 
