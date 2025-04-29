@@ -32,7 +32,7 @@ The dataset includes the following features to help with prediction:
 
 ## ⚙️ Tools and Technologies
 
--Python 🐍
+- Python 🐍
 
 -Scikit-learn 📚
 
