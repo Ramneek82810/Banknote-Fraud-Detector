@@ -38,7 +38,7 @@ The dataset includes the following features to help with prediction:
 
 - Pandas 🗃️
 
--NumPy ➗
+- NumPy ➗
 
 -Matplotlib 📈
 
