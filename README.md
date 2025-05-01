@@ -36,7 +36,7 @@ The dataset includes the following features to help with prediction:
 
 - Scikit-learn 📚
 
--Pandas 🗃️
+- Pandas 🗃️
 
 -NumPy ➗
 
