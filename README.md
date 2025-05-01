@@ -40,7 +40,7 @@ The dataset includes the following features to help with prediction:
 
 - NumPy ➗
 
--Matplotlib 📈
+- Matplotlib 📈
 
 ## 🚀 How to Run the Project
 
