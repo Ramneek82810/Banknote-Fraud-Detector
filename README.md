@@ -50,7 +50,7 @@ To run the project locally:
 
 - Install the required libraries from the requirements.txt.
 
--Execute the script to get the results and predictions.
+- Execute the script to get the results and predictions.
 
 ## 📈 Results
 
