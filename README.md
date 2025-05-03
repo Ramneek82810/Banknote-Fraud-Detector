@@ -46,7 +46,7 @@ The dataset includes the following features to help with prediction:
 
 To run the project locally:
 
--Clone the repository to your local machine.
+- Clone the repository to your local machine.
 
 -Install the required libraries from the requirements.txt.
 
