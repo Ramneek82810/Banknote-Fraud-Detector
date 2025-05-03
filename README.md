@@ -48,7 +48,7 @@ To run the project locally:
 
 - Clone the repository to your local machine.
 
--Install the required libraries from the requirements.txt.
+- Install the required libraries from the requirements.txt.
 
 -Execute the script to get the results and predictions.
 
