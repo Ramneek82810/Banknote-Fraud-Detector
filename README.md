@@ -60,7 +60,7 @@ The model provides various accuracy metrics, such as:
 
 - Accuracy Score ⭐
 
--Classification Report 📝
+- Classification Report 📝
 
 These results demonstrate how well the program identifies real versus fake banknotes based on their features. 🤝
 
