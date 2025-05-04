@@ -56,7 +56,7 @@ To run the project locally:
 
 The model provides various accuracy metrics, such as:
 
--Confusion Matrix 🔢
+- Confusion Matrix 🔢
 
 -Accuracy Score ⭐
 
