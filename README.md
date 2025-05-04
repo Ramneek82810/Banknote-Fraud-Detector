@@ -58,7 +58,7 @@ The model provides various accuracy metrics, such as:
 
 - Confusion Matrix 🔢
 
--Accuracy Score ⭐
+- Accuracy Score ⭐
 
 -Classification Report 📝
 
