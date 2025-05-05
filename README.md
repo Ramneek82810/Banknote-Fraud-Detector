@@ -70,7 +70,7 @@ The Gaussian Naive Bayes model achieves excellent performance, with a high accur
 
 ## 🛠️ Setup Instructions
 
--Clone this repository to your local machine.
+- Clone this repository to your local machine.
 
 -Install all necessary dependencies.
 
