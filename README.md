@@ -74,7 +74,7 @@ The Gaussian Naive Bayes model achieves excellent performance, with a high accur
 
 - Install all necessary dependencies.
 
--Run the script and observe the predictions and results! 🎬
+- Run the script and observe the predictions and results! 🎬
 
 ## 🌍 Contributing
 
