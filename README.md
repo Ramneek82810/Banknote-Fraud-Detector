@@ -1,87 +1,61 @@
-# 🏦 Banknote Authentication using Gaussian Naive Bayes 
+# 🏛️ Banknote Fraud Detection using Gaussian Naive Bayes
 
-## 📜 Project Description
+## 📝 Project Description
+This project focuses on the detection of forged banknotes using machine learning. A **Gaussian Naive Bayes** classifier is employed to distinguish between real and fake currency based on features extracted from the images of banknotes.
 
-Welcome to the Banknote Authentication project! 🎉 This project uses Gaussian Naive Bayes 🧑‍💻 to classify banknotes as real or fake based on their physical features. The goal is to build a model that can accurately predict whether a banknote is authentic or counterfeit. 💡
+## 📊 Dataset Information
+- **File**: `banknotes.csv`
+- **Features**:
+  - Variance of Wavelet Transformed Image
+  - Skewness of Wavelet Transformed Image
+  - Kurtosis of Wavelet Transformed Image
+  - Entropy
+- **Target**:
+  - `0`: Authentic
+  - `1`: Forged  
+The dataset is sourced from the UCI Machine Learning Repository.
 
-## 🔍 Problem Statement
+## 🧠 Model Used
+- **Algorithm**: Gaussian Naive Bayes
+- **Why Naive Bayes?**
+  - Fast and simple
+  - Works well with small datasets
+  - Assumes feature independence, suitable for this dataset
 
-This project aims to classify banknotes into two categories:
+## 🛠️ Files Overview
+| File Name       | Description                                      |
+|----------------|--------------------------------------------------|
+| `banknotes.csv` | Dataset with real and fake banknotes            |
+| `banknotes0.py` | Model training and prediction script (Version 1)|
+| `banknotes1.py` | Improved/Alternate model implementation         |
+| `README.md`     | Project documentation                           |
 
-- Real Banknotes 🏅
+## 🚀 Steps to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ramneek82810/Banknote-Fraud-Detector.git
+   cd Banknote-Fraud-Detector
+   ```
+2. Install required libraries:
+   ```bash
+   pip install pandas scikit-learn
+   ```
+3. Run the script:
+   ```bash
+   python banknotes1.py
+   ```
 
-- Fake Banknotes 💸
+## 📈 Output
+- Displays classification report and model accuracy.
+- Predicts whether a given banknote is genuine or forged.
 
-By analyzing different features (like variance, skewness, curtosis, and entropy), the model learns to distinguish between genuine and forged banknotes. 🧐
+## ✅ Results
+- Achieved high classification accuracy.
+- Efficient performance on real-world-like data.
 
-## 🧠 Methodology
-
-We utilize the Gaussian Naive Bayes algorithm 🔮, a probabilistic classifier that assumes features follow a Gaussian (normal) distribution. This method helps the model learn from the data and make predictions with high accuracy. 🤖
-
-## 🧰 Features Used
-
-The dataset includes the following features to help with prediction:
-
-- Variance 📐
-
-- Skewness 🎯
-
-- Curtosis 🏁
-
-- Entropy 🔥
-
-## ⚙️ Tools and Technologies
-
-- Python 🐍
-
-- Scikit-learn 📚
-
-- Pandas 🗃️
-
-- NumPy ➗
-
-- Matplotlib 📈
-
-## 🚀 How to Run the Project
-
-To run the project locally:
-
-- Clone the repository to your local machine.
-
-- Install the required libraries from the requirements.txt.
-
-- Execute the script to get the results and predictions.
-
-## 📈 Results
-
-The model provides various accuracy metrics, such as:
-
-- Confusion Matrix 🔢
-
-- Accuracy Score ⭐
-
-- Classification Report 📝
-
-These results demonstrate how well the program identifies real versus fake banknotes based on their features. 🤝
-
-## 🏆 Model Performance
-
-The Gaussian Naive Bayes model achieves excellent performance, with a high accuracy rate, proving its capability in banknote authentication tasks. 📊
-
-## 🛠️ Setup Instructions
-
-- Clone this repository to your local machine.
-
-- Install all necessary dependencies.
-
-- Run the script and observe the predictions and results! 🎬
-
-## 🌍 Contributing
-
-We welcome contributions! 🙌 Feel free to report issues or submit pull requests. Together, we can make the project even better. 💡
-
-## 📄 License
-
-This project is licensed under the MIT License. 📝
+## 📌 Future Improvements
+- Incorporate other classification algorithms (e.g., SVM, Random Forest).
+- Build a web interface to allow users to upload data and get predictions.
+- Visualize data distributions and correlations.
 
 
