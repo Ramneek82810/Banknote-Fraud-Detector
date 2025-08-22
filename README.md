@@ -1,4 +1,4 @@
-# 🏛️ Banknote Fraud Detection using Gaussian Naive-Bayes
+# 🏛️ Banknote Fraud-Detection using Gaussian Naive-Bayes
 
 ## 📝 Project Description
 This project focuses on the detection of forged banknotes using machine learning. A **Gaussian Naive Bayes** classifier is employed to distinguish between real and fake currency based on features extracted from the images of banknotes.
