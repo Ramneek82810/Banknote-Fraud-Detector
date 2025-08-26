@@ -56,5 +56,3 @@ The dataset is sourced from the UCI Machine Learning Repository.
 - Incorporate other classification algorithms (e.g., SVM, Random Forest).
 - Build a web interface to allow users to upload data and get predictions.
 - Visualize data distributions and correlations.
-
-
