@@ -11,7 +11,7 @@ This project focuses on the detection of forged banknotes using machine learning
   - Entropy
 - **Target**:       
   - `0`: Authentic
-  - `1`: Forged    
+  - `1`: Forged     
 The dataset is sourced from the UCI Machine Learning Repository.
 
 ## 🧠 Model Used
