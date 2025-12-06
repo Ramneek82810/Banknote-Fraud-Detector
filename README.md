@@ -13,7 +13,7 @@ This project focuses on the detection of forged banknotes using machine learning
   - `0`: Authentic
   - `1`: Forged     
 The dataset is sourced from the UCI Machine Learning Repository. 
-
+ 
 ## 🧠 Model Used
 - **Algorithm**: Gaussian Naive Bayes 
 - **Why Naive Bayes?**
