@@ -10,7 +10,7 @@ This project focuses on the detection of forged banknotes using machine learning
   - Kurtosis of Wavelet Transformed Image
   - Entropy
 - **Target**:       
-  - `0`: Authentic
+  - `0`: Authentic  
   - `1`: Forged     
 The dataset is sourced from the UCI Machine Learning Repository. 
  
