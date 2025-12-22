@@ -4,7 +4,7 @@ This project focuses on the detection of forged banknotes using machine learning
 
 ## 📊 Dataset Information
 - **File**: `banknotes.csv`
-- **Features**:
+- **Features**: 
   - Variance of Wavelet Transformed Image
   - Skewness of Wavelet Transformed Image
   - Kurtosis of Wavelet Transformed Image
