@@ -38,7 +38,7 @@ The dataset is sourced from the UCI Machine Learning Repository.
 2. Install required libraries:
    ```bash
    pip install pandas scikit-learn
-   ```
+   ``` 
 3. Run the script:
    ```bash
    python banknotes1.py
